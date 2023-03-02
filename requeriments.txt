@@ -31,4 +31,4 @@ tqdm==4.64.1
 troposphere==4.3.0
 urllib3==1.26.14
 Werkzeug==2.2.3
-zappa==0.56.1 a
+zappa==0.56.1
